@@ -1,0 +1,1 @@
+console.log("Hello This is the mhc Javascript File here");
